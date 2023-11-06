@@ -26,5 +26,4 @@ The objects we have are 3D objects and our screens are in 2D, we need a way to p
 ![image](https://github.com/Y-Alomar/Game-Engine/assets/113862815/f8b3a41d-43db-4b81-8a2c-2f6cf35ac6e2)
 ![image](https://github.com/Y-Alomar/Game-Engine/assets/113862815/005f426d-1205-49ac-add7-984d04696473)
 
-
-
+At some point the only thing that appears is a single pixel but that is to be expected as the viewing range is from [-1,1]
